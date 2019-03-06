@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="commons-collections-3.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/protostuff-runtime-1.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/protostuff-core-1.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/protostuff-collectionschema-1.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/protostuff-api-1.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jedis-2.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-pool2-2.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
